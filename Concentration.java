@@ -21,7 +21,7 @@ public class Concentration {
     		
     public Concentration(){
 	_board = new Tile[4][4];
-	_words = new String[] {"a","b","c","d","e","f","g","h"};
+	_words = new String[] {" a "," b "," c "," d "," e "," f "," g "," h "};
 
 	for (int i = 0; i < _board.length; i++)
 	    for (int j = 0; j < _board[i].length; j++)
