@@ -1,7 +1,7 @@
-//Team Fern - Joel Ye, Bayle Smith-Salzberg
+//Team Fern - Joel Ye, William Xiang
 //APCS1 pd10
 //HW36 -- Some Folks Call it a Memory
-//2015-11-23
+//2015-11-24
 
 //import cs1.Keyboard;  //if comfortable with Scanner, you may comment this out
 import java.util.Scanner;
